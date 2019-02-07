@@ -16,6 +16,7 @@
 #include "config/bitcoin-config.h"
 #endif
 
+#include "crypto/common.h"
 #include "crypto/equihash.h"
 
 #ifndef NO_UTIL_LOG
